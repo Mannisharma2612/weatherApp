@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { DangerZone } from 'expo';
-const { DZ }  = DangerZone;
+import Lottie from 'lottie-react-native';
 import { API_KEY } from './shared/WeatherApi';
 
 import Weather from './components/weather';

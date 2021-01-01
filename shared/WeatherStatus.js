@@ -2,7 +2,7 @@ export const weatherStatus = {
     Rain: {
       color: '#005BEA',
       title: 'Raining',
-      subtitle: 'Get a cup of coffee',
+      subtitle: 'Get a cup of tea',
       icon: 'weather-rainy'
     },
     Clear: {
@@ -14,7 +14,7 @@ export const weatherStatus = {
     Thunderstorm: {
       color: '#616161',
       title: 'A Storm is coming',
-      subtitle: 'Because Gods are angry',
+      subtitle: 'Because Thor is angry',
       icon: 'weather-lightning'
     },
     Clouds: {
